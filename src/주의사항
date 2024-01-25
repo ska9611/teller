@@ -1,0 +1,62 @@
+패키지 설치하기
+npm install --save react-router-dom styled-components
+
+저 명령어를 치고
+package.json 파일에서 
+"react-router-dom": "^6.21.3",
+"styled-components": "^6.1.8",
+이거 있으면 된거임 
+
+
+미니 블로그에 필요한 기능
+- 글 목록 보기 기능 (리스트 형태)
+- 글 보기 기능
+- 댓글 보기 기능
+- 글 작성 기능
+- 댓글 작성 기능
+
+글을 post라고 하고 댓글을 comment라는 이름으로 지정
+
+
+
+각 기능에 필요한 Component
+- 글 목록 보기 기능 (리스트 형태)
+  PostList, PostListItem
+
+- 글 보기 기능
+  Post
+
+- 댓글 보기 기능
+  CommentList, CommentListItem
+
+- 글 작성 기능
+  PostWrite
+
+- 댓글 작성 기능
+  CommentWrite
+
+
+폴더 구성
+list: 리스트와 관련된 Component들을 모아놓은 폴더
+page: 페이지 Component들을 모아 놓은 폴더
+ui: UI Component들을 모아 놓은 폴더 (사용자가 입력을 할 수 있게 해주는 Component)
+
+필요한 UI Component: 버튼 Component, Text
+
+
+다 만들고 나면 npm run build를 통해 빌드하기.
+명령어를 실행하면 build 폴더가 생긴다
+
+serve 설치하기: npm install -g serve
+serve -s build 명령어를 쳐서 build 폴더를 기반으로 웹 애플리케이션을 서빙한다
+
+   │                                                  │
+   │   Serving!                                       │
+   │                                                  │
+   │   - Local:    http://localhost:53348             │
+   │   - Network:  http://192.168.56.1:53348          │
+   │                                                  │
+   │   This port was picked because 3000 is in use.   │
+   │                                                  │
+   │   Copied local address to clipboard!  
+이렇게 상자가 나오는데 이 주소로 들어가면 우리가 만들었던 React 홈페이지가 나온다
