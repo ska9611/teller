@@ -1,28 +1,32 @@
-import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import styled from 'styled-components';
-// Pages
-import MainPage from './component/page/MainPage';
-import PostWritePage from './component/page/PostWritePage';
-import PostViewPage from './component/page/PostViewPage';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Celebrity from './pages/Celebrity';
+import Movies from './pages/Movies';
+import NotFound from './pages/NotFound';
+import Search from './pages/Search';
+import Home from './pages/Home';
+import Headers from './components/Header';
+import MovieDetail from './pages/MovieDetail';
+import Login from './pages/Login';
 
-const MainTitleText = styled.p`
-  font-size: 24px;
-  font-weight: bold;
-  text-align: center;
-`;
-
-function App(props) {
+function App() {
   return (
-    <BrowserRouter>
-      <MainTitleText>나의 프로젝트</MainTitleText>
-      <Routes>
-        <Route index element={<MainPage />} />
-        <Route path="post-write" element={<PostWritePage />} />
-        <Route path="post/:postId" element={<PostViewPage />} />
-      </Routes>
-    </BrowserRouter>
+    <div className="root-wrap">
+      <BrowserRouter>
+        <Headers />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/movie" element={<Movies />} />
+          <Route path="/movie/:title" element={<MovieDetail />} />
+          {/* <Route path="/movie/:overview" element={<MovieDetail />} /> */}
+          <Route path="/search" element={<Search />} />
+          <Route path="/celebrity" element={<Celebrity />} />
+          <Route path="/*" element={<NotFound />} />
+          <Route path="/login" element={<Login />} />
+        </Routes>
+      </BrowserRouter>
+    </div>
   );
 }
 
 export default App;
+// 안녕
