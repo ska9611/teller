@@ -1,0 +1,16 @@
+<%- include('header.ejs') %>
+
+<ul>
+    <% categories.forEach(category => { %>
+        <li><a href="/category/<%= category %>"><%= category %></a></li>
+    <% }) %>
+</ul>
+
+<a href="/category?categoryName=인간">인간</a> |
+<a href="/category?categoryName=미디어">미디어</a> |
+<a href="/category?categoryName=인공지능">인공지능</a>
+
+
+
+<%- include('footer.ejs') %>
+

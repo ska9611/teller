@@ -1,0 +1,54 @@
+/* header.css */
+
+.header-container {
+  background-color: rgb(8, 69, 119);
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+.header-wrap {
+  height: 64px;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}
+
+.header-left-wrap {
+  display: flex;
+}
+
+.header-right-wrap {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header-nav-item {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  margin-right: 300px; /* 네비게이션 아이템 사이 간격 조정 */
+}
+
+.login-button {
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  text-align: right;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: rgba(47, 236, 29, 0.3); /* 로그인 버튼 배경색 */
+}
+
+.login-button:hover {
+  background-color: rgba(15, 221, 26, 0.5); /* 마우스 호버시 배경색 변경 */
+}
+
+
+.header-nav-item {
+  margin-right: 15px; /* 네비게이션 메뉴 간 간격 조절 */
+  font-size: 20px; /* 네비게이션 메뉴 글자 크기 키우기 */
+}

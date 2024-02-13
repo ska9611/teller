@@ -1,0 +1,38 @@
+<%- include('header.ejs') %>
+
+<form action="/Users_infoProc" method="post">
+    <ul>
+        <li>회원가입</li>
+        <li>아이디: <input type="text" name="ID" required></li>
+        <li>이름: <input type="text" name="name" required></li>
+        <li>비밀번호: <input type="passwd" name="passwd" required></li> <!-- 비밀번호 입력란 타입 수정 -->
+        <li>비밀번호 확인: <input type="passwd" name="passwd2" required></li> <!-- 비밀번호 확인 입력란 타입 수정 -->
+        <li>이메일: <input type="email" name="email" required></li>
+        <li>성별: 
+            <label><input type="radio" name="sex" value="Male" required> 남성</label>
+            <label><input type="radio" name="sex" value="Female" required> 여성</label>
+        </li>
+        <li>생일: <input type="date" name="birth" required></li>
+        <li>닉네임: <input type="text" name="nickname" required></li>
+
+        <li>구독: 
+            <label><input type="checkbox" name="subscribe_status" value="True"> 예</label>
+            <label><input type="checkbox" name="subscribe_status" value="False"> 아니오</label> <!-- 예와 아니오의 값을 구분 -->
+        </li>
+        <li>휴대전화: <input type="text" name="phone" required></li>
+        <li>주소: <input type="text" name="address" required></li>
+
+        <!-- 추가된 부분 시작 -->
+        <li>관리자: 
+            <label><input type="checkbox" name="admin_status" value="True"> 관리자</label>
+            <label><input type="checkbox" name="admin_status" value="False"> 일반 사용자</label> <!-- 관리자 여부를 선택할 수 있도록 추가 -->
+        </li>
+        <li>메모: <textarea name="memo" rows="4" cols="50"></textarea></li> <!-- 메모 입력란 추가 -->
+        <!-- 추가된 부분 끝 -->
+
+        <button type="submit">회원가입</button>
+    </ul>
+</form>
+
+<%- include('footer.ejs') %>
+

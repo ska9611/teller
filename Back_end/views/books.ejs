@@ -1,0 +1,37 @@
+<%- include('header.ejs') %>
+
+<form action="/books" method="post">
+    <input type="text" name="searchTerm" placeholder="책 제목, 저자, 출판사, 가격을 검색하세요">
+    <button type="submit">검색</button>
+</form>
+
+
+
+<div>
+    <% books.forEach(book => { %>
+        <div>
+            <p><strong>Title:</strong> <a href="/book/<%= book.id %>"><%= book.title %></a></p>
+            <p><strong>Author:</strong> <%= book.author %></p>
+            <p><strong>Publisher:</strong> <%= book.publisher %></p>
+            <p><strong>CategoryName:</strong> <%= book.CategoryName %></p>
+            <p><strong>Description:</strong> <%= book.description %></p>
+            <p><strong>pubDate:</strong> <%= book.pubDate %></p>
+            <p><strong>isbn</strong> <%= book.isbn %></p>
+            <p><strong>priceStandard </strong> <%= book.priceStandard %></p>
+            <p><strong>mallType</strong> <%= book.mallType %></p>
+            <p><strong>customerReviewRank</strong> <%= book.customerReviewRank %></p>
+            <% if (book.cover && book.cover !== 'N/A') { %>
+                <img src="<%= book.cover %>" alt="<%= book.title %>" style="max-width: 100px;">
+            <% } else if (book.image_url && book.image_url !== 'N/A') { %>
+                <img src="<%= book.image_url %>" alt="<%= book.title %>" style="max-width: 100px;">
+            <% } else { %>
+                <p>No image available</p>
+            <% } %>
+        </div>
+        <hr>
+    <% }); %>
+</div>
+
+
+<%- include('footer.ejs') %>
+

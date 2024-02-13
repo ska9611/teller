@@ -1,0 +1,69 @@
+
+
+<h1>Admin Dashboard</h1>
+
+<% if (typeof error !== 'undefined') { %>
+    <p><%= error %></p>
+<% } %>
+
+<fieldset>
+    <legend>User Search</legend>
+    <form action="/admin/searchUsers" method="post">
+        <label for="searchKeyword">Enter user ID, email, or name:</label>
+        <input type="text" id="searchKeyword" name="searchKeyword" placeholder="Search...">
+        <button type="submit">Search</button>
+    </form>
+</fieldset>
+
+<% if (users.length > 0) { %>
+    <fieldset>
+        <legend>Users</legend>
+        <ul>
+            <% users.forEach(user => { %>
+                <li>
+                    <strong>Name:</strong> <%= user.name %><br>
+                    <strong>Email:</strong> <%= user.email %><br>
+                    <strong>Nickname:</strong> <%= user.nickname %><br>
+                    <strong>Sex:</strong> <%= user.sex %><br>
+                    <strong>Phone:</strong> <%= user.phone %><br>
+                    <strong>ID:</strong> <%= user.ID %><br>
+                    <form action="/admin/deleteUser" method="post">
+                        <input type="hidden" name="userId" value="<%= user.ID %>">
+                        <button type="submit">Delete User</button>
+                    </form>
+                </li>
+            <% }); %>
+        </ul>
+    </fieldset>
+<% } else { %>
+    <p>No users found.</p>
+<% } %>
+
+<% if (subscribers.length > 0) { %>
+    <fieldset>
+        <legend>Subscribers</legend>
+        <ul>
+            <% subscribers.forEach(subscriber => { %>
+                <li>ID: <%= subscriber.ID %></li>
+                <li>Subscriber Name: <%= subscriber.subscriber_name %></li>
+                <input type="hidden" name="subscriberId" value="<%= subscriber.ID %>">
+                        <button type="submit">Delete</button>
+            <% }); %>
+        </ul>
+    </fieldset>
+<% } else { %>
+    <p>No subscribers found.</p>
+<% } %>
+
+
+
+<fieldset>
+    <legend>Send Message to All Users</legend>
+    <form action="/admin/sendMessageToAll" method="post">
+        <label for="message">Enter message:</label>
+        <textarea id="message" name="message" placeholder="Message..."></textarea>
+        <button type="submit">Send Message to All</button>
+    </form>
+</fieldset>
+
+<%- include('footer.ejs') %>

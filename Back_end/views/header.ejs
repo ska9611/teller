@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tale.er</title>
+    <!-- 외부 CSS 파일 추가 -->
+    <link rel="stylesheet" type="text/css" href="header.css">
+    <!-- Google Fonts를 이용하여 Roboto 폰트 추가 -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <!-- 내부 스타일 추가 -->
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif; /* Google Fonts에서 가져온 Roboto 폰트 사용 */
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            text-align: left;
+            font-size: 36px; /* 헤더 텍스트 크기 키우기 */
+            background-color: rgba(3, 37, 65, 1); /* 헤더 배경색 설정 */
+            color: #c48bdf; /* 헤더 텍스트 색상 설정 */
+            padding: 20px; /* 헤더 내부 패딩 추가 */
+        }
+        /* 추가된 CSS 스타일은 header.css 파일에 작성 */
+        .header-nav-item {
+            margin-right: 15px; /* 네비게이션 메뉴 간 간격 조절 */
+            font-size: 20px; /* 네비게이션 메뉴 글자 크기 키우기 */
+        }
+           .header-nav-item,
+            .login-button {
+             color: white;
+             font-size: 20px;
+             text-align: right;
+             
+        }
+
+        .header-nav-item,
+            .logout-button {
+             color: white;
+             font-size: 20px;
+             text-align: right;
+
+        }
+
+        
+    </style>
+</head>
+<body>
+    <h1>Tale.er  <!-- 헤더 -->
+        <header class="header-container">
+            
+            <nav class="header-left-wrap">
+                
+
+                <!-- 왼쪽 네비게이션 메뉴 -->
+                <div class="header-left-wrap">
+                    <a href="/" class="header-nav-item">홈</a>
+                    <a href="/mypage" class="header-nav-item">마이페이지</a>
+                    <a href="/contact" class="header-nav-item">문의하기</a>
+                    <a href="/contactList" class="header-nav-item">문의내용들</a>
+                    <a href="/Users_info" class="header-nav-item">회원가입</a>
+                    <a href="/books" class="header-nav-item">내서재</a>
+                <div class="header-right-wrap">
+                    <% if (user && user.nickname) { %>
+                        <!-- 사용자가 로그인한 경우 -->
+                        <p><%= user.nickname %>님, 환영합니다!</p>
+                        <a href="/logout" class="logout-button">로그아웃</a>
+                    <% } else { %>
+                        <!-- 사용자가 로그인하지 않은 경우 -->
+                        <a href="/login" class="login-button">로그인</a>
+                    <% } %>
+                    
+                    
+                    
+                    
+                </div>
+    
+              
+            </nav>
+        </header></h1>
+    
+
+    
+</body>
+</html>
+
+
+
+
+
+
