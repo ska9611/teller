@@ -1,0 +1,92 @@
+/* 기본 페이지 컨테이너 레이아웃 */
+.mypage-container {
+  width: 80%;
+  height: 10;
+  min-width: max-content;
+  margin: auto;
+  padding: 29px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.8);
+  border-radius: 9px;
+  block-size: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+/* 컨테이너간 마진 */
+.profile-container,
+.user-info-container,
+.recent-books-container {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.info-container {
+}
+
+/* 구분선 */
+.mypage-container .divide_line {
+  width: 92%;
+  height: 2px;
+  background-color: black;
+  margin: 15px auto;
+}
+
+/* 프로필사진 */
+.profile-container img {
+  width: 250px;
+  border-radius: 30px;
+  margin: 0px;
+}
+
+/* 프로필  컨테이너 */
+.profile-container {
+  margin-left: 35px;
+  margin-bottom: 85px;
+}
+
+/* 프로필 옆 컨테이너 */
+.profile-container p {
+  margin: 25px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.profile-container button {
+  font-size: 15px; /* 버튼의 글꼴 크기를 조절합니다. */
+  padding: 5px 10px; /* 버튼의 안쪽 여백을 조절합니다. 상하 5px, 좌우 10px로 설정하였습니다. */
+  margin: 15px; /* 버튼 사이의 간격을 설정합니다. */
+  height: 60px;
+  display: inline-flex;
+  white-space: nowrap;
+  flex-direction: column;
+}
+
+/* 회원정보 컨테이너 */
+.info-container .user-info-container h2 {
+  font-size: 35px;
+  font-weight: bold;
+  margin-left: 50px;
+  margin-bottom: 30px;
+}
+
+.user-info-container p {
+  font-size: 19px;
+  margin: 35px;
+  line-height: 1;
+}
+
+/* 최근 읽은 도서 컨테이너 */
+
+.info-container .recent-books-container {
+  margin-left: 20px;
+  margin: 50px;
+}
+
+.info-container .recent-books-container h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
