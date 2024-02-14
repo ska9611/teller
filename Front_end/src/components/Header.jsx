@@ -39,15 +39,7 @@ export default function Header() {
                   </Link>
                 </li>
               )}
-              <li>
-                <Link
-                  className="header-nav-item"
-                  to="/userinfo"
-                  state={{ userInfo }}
-                >
-                  유저정보
-                </Link>
-              </li>
+
               {isLoggedIn && console.log('마이페이지가 떠야함')}
             </ul>
             <div className="header-right-wrap" style={{ marginLeft: 'auto' }}>
