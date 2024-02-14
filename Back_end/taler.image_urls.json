@@ -1,0 +1,133 @@
+[{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f6655c"
+  },
+  "isbn": "K662937686",
+  "image_url": "https://image.aladin.co.kr/product/33042/27/cover500/k662937686_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f6655f"
+  },
+  "isbn": "K912936257",
+  "image_url": "https://image.aladin.co.kr/product/32966/77/cover500/k912936257_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66562"
+  },
+  "isbn": "8947527386",
+  "image_url": "https://image.aladin.co.kr/product/619/31/cover500/8947527386_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66565"
+  },
+  "isbn": "K062936813",
+  "image_url": "https://image.aladin.co.kr/product/32847/78/cover500/k062936813_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66568"
+  },
+  "isbn": "8935209430",
+  "image_url": "https://image.aladin.co.kr/product/2210/28/cover500/8935209430_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f6656b"
+  },
+  "isbn": "8935664820",
+  "image_url": "https://image.aladin.co.kr/product/23450/51/cover500/8935664820_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f6656e"
+  },
+  "isbn": "K322937778",
+  "image_url": "https://image.aladin.co.kr/product/33000/64/cover500/k322937778_2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66571"
+  },
+  "isbn": "K232832980",
+  "image_url": "https://image.aladin.co.kr/product/31317/51/cover500/k232832980_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66574"
+  },
+  "isbn": "8947548383",
+  "image_url": "https://image.aladin.co.kr/product/29872/90/cover500/8947548383_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66577"
+  },
+  "isbn": "K312532415",
+  "image_url": "https://image.aladin.co.kr/product/13671/94/cover500/k312532415_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab49934ef"
+  },
+  "isbn": "899757521X",
+  "image_url": "https://image.aladin.co.kr/product/3620/70/cover500/899757521x_2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab49934f3"
+  },
+  "isbn": "K022936778",
+  "image_url": "https://image.aladin.co.kr/product/32700/91/cover500/k022936778_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab49934f6"
+  },
+  "isbn": "8973373110",
+  "image_url": "https://image.aladin.co.kr/product/837/11/cover500/8973373110_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab49934f9"
+  },
+  "isbn": "K042937774",
+  "image_url": "https://image.aladin.co.kr/product/33002/31/cover500/k042937774_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab49934fc"
+  },
+  "isbn": "K062633013",
+  "image_url": "https://image.aladin.co.kr/product/25401/63/cover500/k062633013_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab49934ff"
+  },
+  "isbn": "K122936622",
+  "image_url": "https://image.aladin.co.kr/product/32898/2/cover500/k122936622_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab4993502"
+  },
+  "isbn": "897337639X",
+  "image_url": "https://image.aladin.co.kr/product/53/61/cover500/897337639x_2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab4993505"
+  },
+  "isbn": "8967350929",
+  "image_url": "https://image.aladin.co.kr/product/3564/63/cover500/8967350929_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab4993508"
+  },
+  "isbn": "8997575422",
+  "image_url": "https://image.aladin.co.kr/product/5369/65/cover500/8997575422_1.jpg"
+}]

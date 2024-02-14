@@ -1,0 +1,747 @@
+[{
+  "_id": {
+    "$oid": "65b0db733b2aa40d1ee22f38"
+  },
+  "title": "2024 정연석 민법 Daily TEST",
+  "author": "정연석 (지은이)",
+  "publisher": "정독(마인드탭(MindTap))",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0db733b2aa40d1ee22f39"
+  },
+  "title": "2024 에듀윌 매경TEST 2주끝장 (무료특강+핵심테마+모의고사5회) - 2주만에 우수등급 완성",
+  "author": "신경수, 전표훈 (지은이)",
+  "publisher": "에듀윌",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0db733b2aa40d1ee22f3a"
+  },
+  "title": "해커스 토플 액츄얼 테스트 리스닝 (Hackers TOEFL Actual Test Listening) - 고득점을 위한 토플 마무리 실전서, iBT 토플 실전모의고사 7회분 제공 (교재 6회분 + 온라인 1회분)",
+  "author": "해커스어학연구소 (지은이)",
+  "publisher": "해커스어학연구소(Hackers)",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0db733b2aa40d1ee22f3b"
+  },
+  "title": "Preparation Book for the TOEFL Junior Test RC Basic - Focus on Question Types",
+  "author": "청담러닝 ESL R&D Center (지은이)",
+  "publisher": "런21(런이십일)",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0db733b2aa40d1ee22f3c"
+  },
+  "title": "매경TEST 공식 가이드 - 국가공인 경제·경영 이해력 인증시험 합격 대비, 2023 개정판",
+  "author": "매일경제 경제경영연구소 (지은이)",
+  "publisher": "매일경제신문사",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0db733b2aa40d1ee22f3d"
+  },
+  "title": "해커스 토플 액츄얼 테스트 리딩 (Hackers TOEFL Actual Test Reading) - TOEFL iBT 최신출제경향 반영, 고득점을 위한 토플 마무리 실전서, iBT 토플 실전모의고사 7회분 제공(교재 6회분+온라인 1회분)",
+  "author": "해커스어학연구소 (지은이)",
+  "publisher": "해커스어학연구소(Hackers)",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0db733b2aa40d1ee22f3e"
+  },
+  "title": "해커스 토플 액츄얼 테스트 스피킹 (Hackers TOEFL Actual Test Speaking) - TOEFL iBT 최신출제경향 반영, 고득점을 위한 토플 마무리 실전서, iBT 토플 실전모의고사 15회분 제공(교재 12회분+온라인 3회분)",
+  "author": "해커스어학연구소 (지은이)",
+  "publisher": "해커스어학연구소(Hackers)",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0db733b2aa40d1ee22f3f"
+  },
+  "title": "Preparation Book for the TOEFL Junior Test RC Intermediate - Focus on Question Types",
+  "author": "청담러닝 ESL R&D Center (지은이)",
+  "publisher": "런21(런이십일)",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0db733b2aa40d1ee22f40"
+  },
+  "title": "해커스 토플 액츄얼 테스트 리딩 (Hackers TOEFL Actual Test Reading) : 2023년 7월 26일 개정 시험 완벽 반영, 개정증보판 - iBT 리딩 실전모의고사 10회(교재 9회+온라인 1회), 단어암기&지문녹음 MP3, 토플 시험 실전서",
+  "author": "해커스어학연구소 (지은이)",
+  "publisher": "해커스어학연구소(Hackers)",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0db733b2aa40d1ee22f41"
+  },
+  "title": "Preparation Book for the TOEFL Junior Test LC Basic - Focus on Question Types",
+  "author": "청담러닝 ESL R&D Center (지은이)",
+  "publisher": "런21(런이십일)",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0e3a9371275157cc3d1c2"
+  },
+  "title": "컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커 - 컨테이너 인프라 환경을 이해하고 직접 구축해 보자!",
+  "author": "조훈, 심근우, 문성주 (지은이)",
+  "publisher": "길벗",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0e3a9371275157cc3d1c3"
+  },
+  "title": "프로덕션 쿠버네티스 - 애플리케이션 플랫폼 구축을 위한",
+  "author": "조쉬 로소, 리치 랜더, 알렉산더 브랜드, 존 해리스 (지은이), 나정호 (옮긴이)",
+  "publisher": "에이콘출판",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0e3a9371275157cc3d1c4"
+  },
+  "title": "그림과 실습으로 배우는 도커 & 쿠버네티스 - 개념과 작동 원리가 쏙쏙 이해되는 완벽 입문서",
+  "author": "오가사와라 시게타카 (지은이), 심효섭 (옮긴이)",
+  "publisher": "위키북스",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0e3a9371275157cc3d1c5"
+  },
+  "title": "쿠버네티스 엔터프라이즈 가이드 2/e - 컨테이너 기술을 활용한 엔터프라이즈 환경 통합과 확장",
+  "author": "마크 보어쉬테인, 스콧 수로비치 (지은이), 강세용, 김상필, 김진웅, 박진우, 최진영 (옮긴이)",
+  "publisher": "에이콘출판",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0e3a9371275157cc3d1c6"
+  },
+  "title": "쿠버네티스 완벽 가이드 - 입문부터 실제 운용까지, 필요한 기술 총망라!",
+  "author": "마사야 아오야마 (지은이), 박상욱 (옮긴이)",
+  "publisher": "길벗",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0e3a9371275157cc3d1c7"
+  },
+  "title": "쿠버네티스 인 액션 - 그림과 상세한 설명으로 명확하게 이해하는, 재출간판",
+  "author": "마르코 룩샤 (지은이), 강인호, 황주필, 이원기, 임찬식 (옮긴이)",
+  "publisher": "에이콘출판",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0e3a9371275157cc3d1c8"
+  },
+  "title": "시작하세요! 도커/쿠버네티스 - 친절한 설명으로 쉽게 이해하는 컨테이너 관리, 개정판",
+  "author": "용찬호 (지은이)",
+  "publisher": "위키북스",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0e3a9371275157cc3d1c9"
+  },
+  "title": "쿠버네티스 교과서 - 기초부터 운영까지, 실전에 강한 쿠버네티스 사용법!",
+  "author": "엘튼 스톤맨 (지은이), 심효섭 (옮긴이)",
+  "publisher": "길벗",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0e3a9371275157cc3d1ca"
+  },
+  "title": "더 쿠버네티스",
+  "author": "앨런 혼 (지은이), 기술노트 알렉 (옮긴이)",
+  "publisher": "지니북스",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65b0e3a9371275157cc3d1cb"
+  },
+  "title": "24단계 실습으로 정복하는 쿠버네티스 - 헬름, 로키, 프로메테우스 등 현장에서 바로 활용할 수 있는 쿠버네티스 도구 활용법",
+  "author": "이정훈 (지은이)",
+  "publisher": "위키북스",
+  "price": "N/A"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f6655d"
+  },
+  "title": "조건검색을 이용한 주식 자동매매 완전정복",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330422706&amp;partner=openAPI&amp;start=api",
+  "author": "엑슬론 (지은이)",
+  "pubDate": "2023-12-11",
+  "description": "지난 몇 년 동안 개인 투자자가 자동매매 시스템을 구축하는 일은 불가능에 가까웠지만, 현재는 Open API 서비스를 통해 누구나 손쉽게 가능해졌다. 이 책은 개인 투자자용 자동매매 시스템의 구축 방법을 제시하며, 실습을 통해 시스템 트레이딩의 기초부터 실전 프로그램까지 학습할 수 있도록 도와준다.",
+  "isbn": "K662937686",
+  "isbn13": "9791138825764",
+  "itemId": 330422706,
+  "priceSales": 18000,
+  "priceStandard": 20000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 1000,
+  "cover": "https://image.aladin.co.kr/product/33042/27/coversum/k662937686_1.jpg",
+  "categoryId": 174,
+  "categoryName": "국내도서>경제경영>재테크/투자>주식/펀드",
+  "publisher": "좋은땅",
+  "salesPoint": 4310,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 9,
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/33042/27/cover500/k662937686_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66560"
+  },
+  "title": "맞선보고 싶지 않아서 억지스러운 조건을 달았더니 동급생이 온 일에 대해서 5 - S Novel",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=329667741&amp;partner=openAPI&amp;start=api",
+  "author": "사쿠라기 사쿠라 (지은이), Clear (그림), 손종근 (옮긴이)",
+  "pubDate": "2023-12-14",
+  "description": "애인으로서, 약혼자로서 착실하게 관계를 진전시키는 유즈루와 아리사. 학원제의 계절을 맞이하여 바쁜 나날을 보내는 두 사람은, 함께 지내는 시간이 짧아지는 것과 동시에 조금씩 마음이 엇갈리는 것을 느끼기 시작한다.",
+  "isbn": "K912936257",
+  "isbn13": "9791138480864",
+  "itemId": 329667741,
+  "priceSales": 6750,
+  "priceStandard": 7500,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 370,
+  "cover": "https://image.aladin.co.kr/product/32966/77/coversum/k912936257_1.jpg",
+  "categoryId": 89167,
+  "categoryName": "국내도서>소설/시/희곡>라이트 노벨>S 노벨",
+  "publisher": "㈜소미미디어",
+  "salesPoint": 1895,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 0,
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/32966/77/cover500/k912936257_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66563"
+  },
+  "title": "행복의 조건 - 하버드대학교. 인간성장보고서, 그들은 어떻게 오래도록 행복했을까?",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=6193172&amp;partner=openAPI&amp;start=api",
+  "author": "조지 베일런트 (지은이), 이덕남 (옮긴이), 이시형 (감수)",
+  "pubDate": "2010-01-20",
+  "description": "하버드대생 268명을 72년 동안 연구한 '하버드대학교 성인발달연구'의 결과를 통하여 사람이 행복해 질수 있는 길을 가르쳐주는 연구결과 보고서.하버드대학교 성인발달연구는 1937년부터 지금까지 약 72년에 걸쳐 성인의 발달과 성장에 관한 최장기 전향적 종단연구로 진행되고 있다.",
+  "isbn": "8947527386",
+  "isbn13": "9788947527385",
+  "itemId": 6193172,
+  "priceSales": 17100,
+  "priceStandard": 19000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 950,
+  "cover": "https://image.aladin.co.kr/product/619/31/coversum/8947527386_1.jpg",
+  "categoryId": 51514,
+  "categoryName": "국내도서>인문학>심리학/정신분석학>교양 심리학",
+  "publisher": "프런티어",
+  "salesPoint": 11761,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 9,
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/619/31/cover500/8947527386_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66566"
+  },
+  "title": "마녀의 조건 - 마음먹은 대로 사는 게 아직 서툰 당신에게",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328477825&amp;partner=openAPI&amp;start=api",
+  "author": "유윤주 (지은이)",
+  "pubDate": "2023-11-15",
+  "description": "매일 조금씩 더 행복해지는 나다운 습관을 적립하며 마음먹은 대로 사는 여자 유윤주가 전하는 마녀로 사는 법. 마음먹은 대로 사는 것을 깨달은 뒤 진짜 원하는 삶은 생각보다 요란하지 않고 간단함을 알았다. 자신이 빠져있는 그럴듯한 허울에서 벗어나 진짜 원하는 것을 추가하고, 수정하며 나다움을 계속 갱신해 나가는 것. 이것이 바로 ‘나답게’ 사는 것이다.",
+  "isbn": "K062936813",
+  "isbn13": "9791190227315",
+  "itemId": 328477825,
+  "priceSales": 15300,
+  "priceStandard": 17000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 850,
+  "cover": "https://image.aladin.co.kr/product/32847/78/coversum/k062936813_1.jpg",
+  "categoryId": 70211,
+  "categoryName": "국내도서>자기계발>행복론",
+  "publisher": "힘찬북스(HCbooks)",
+  "salesPoint": 720,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 10,
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/32847/78/cover500/k062936813_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66569"
+  },
+  "title": "프로페셔널의 조건",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=22102826&amp;partner=openAPI&amp;start=api",
+  "author": "피터 드러커 (지은이), 이재규 (옮긴이)",
+  "pubDate": "2012-12-14",
+  "description": "1960년대 말 지식 사회의 도래를 예견하고, 지식 사회에는 지식만이 사회적 지위를 얻고 경제적 성과를 얻을 수 있는 유일한 생산 수단이 될 것이라고 주장해 온 피터 드러커가 지식사회에서 각 개인의 ‘자기실현’ 방법에 대해 들려준다.",
+  "isbn": "8935209430",
+  "isbn13": "9788935209439",
+  "itemId": 22102826,
+  "priceSales": 14400,
+  "priceStandard": 16000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 800,
+  "cover": "https://image.aladin.co.kr/product/2210/28/coversum/8935209430_1.jpg",
+  "categoryId": 88004,
+  "categoryName": "국내도서>경제경영>[경제경영 사상가 20인]>피터 드러커",
+  "publisher": "청림출판",
+  "salesPoint": 3944,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 8,
+  "seriesInfo": {
+    "seriesId": 5671,
+    "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=5671&amp;partner=openAPI",
+    "seriesName": "피터 드러커의 21세기 비전 "
+  },
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/2210/28/cover500/8935209430_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f6656c"
+  },
+  "title": "인간의 조건",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=234505125&amp;partner=openAPI&amp;start=api",
+  "author": "한나 아렌트 (지은이), 이진우 (옮긴이)",
+  "pubDate": "2019-11-05",
+  "description": "노동, 작업, 행위의 3부작으로 구성되어 있는데, 그는 과학기술 문명이 인간의 자연적 조건을 파괴하는 근본악으로 규정짓고, 이를 회복하기 위해 깊은 철학적 사유를 권한다.",
+  "isbn": "8935664820",
+  "isbn13": "9788935664825",
+  "itemId": 234505125,
+  "priceSales": 25650,
+  "priceStandard": 27000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 1350,
+  "cover": "https://image.aladin.co.kr/product/23450/51/coversum/8935664820_1.jpg",
+  "categoryId": 51492,
+  "categoryName": "국내도서>인문학>서양철학>현대철학>현대철학 일반",
+  "publisher": "한길사",
+  "salesPoint": 3837,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 6,
+  "seriesInfo": {
+    "seriesId": 4735,
+    "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=4735&amp;partner=openAPI",
+    "seriesName": "한길그레이트북스 11"
+  },
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/23450/51/cover500/8935664820_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f6656f"
+  },
+  "title": "휴탈리티 : 미래 인재의 조건 - 격변의 AI 시대를 돌파할 인간 고유의 영역은 무엇인가",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330006451&amp;partner=openAPI&amp;start=api",
+  "author": "박정열 (지은이)",
+  "pubDate": "2023-12-25",
+  "description": "휴탈리티 인재가 되기 위해서는 어떤 것이 필요할까? 20년 넘게 현대자동차그룹에서 많은 인재들을 만나고 교육했던 박정열 교수가 그 질문에 대한 해답을 이 책에 모두 담았다.",
+  "isbn": "K322937778",
+  "isbn13": "9791189217211",
+  "itemId": 330006451,
+  "priceSales": 14400,
+  "priceStandard": 16000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 800,
+  "cover": "https://image.aladin.co.kr/product/33000/64/coversum/k322937778_2.jpg",
+  "categoryId": 3103,
+  "categoryName": "국내도서>경제경영>기업 경영>경영 일반",
+  "publisher": "저녁달",
+  "salesPoint": 345,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 10,
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/33000/64/cover500/k322937778_2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66572"
+  },
+  "title": "이차전지 승자의 조건 - 배터리가 주도하는 400조 거대 시장의 패권 경쟁",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=313175162&amp;partner=openAPI&amp;start=api",
+  "author": "정경윤, 이상민, 이영기, 정훈기 (지은이)",
+  "pubDate": "2023-03-24",
+  "description": "가장 간단한 전지의 원리부터, 기술, 시장, 생태계, 미래 전망 등에 관하여 국내 최고 전문가가 직접 저술한 최적의 이차전지 안내서이다. 지금껏 단편적으로 이해했던 이차전지에 관한 지식을 종합적으로 정리하여 400조 원이 훌쩍 넘는 거대한 돈이 흘러갈 시장을 엿볼 수 있다.",
+  "isbn": "K232832980",
+  "isbn13": "9791140703562",
+  "itemId": 313175162,
+  "priceSales": 17820,
+  "priceStandard": 19800,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 990,
+  "cover": "https://image.aladin.co.kr/product/31317/51/coversum/k232832980_1.jpg",
+  "categoryId": 3058,
+  "categoryName": "국내도서>경제경영>경제학/경제일반>경제사/경제전망>한국 경제사/경제전망",
+  "publisher": "길벗",
+  "salesPoint": 3795,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 9,
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/31317/51/cover500/k232832980_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66575"
+  },
+  "title": "톰 피터스 탁월한 기업의 조건 - 세계적 경영 구루가 전하는 사람 중심 경영",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=298729025&amp;partner=openAPI&amp;start=api",
+  "author": "톰 피터스 (지은이), 김미정 (옮긴이)",
+  "pubDate": "2022-08-10",
+  "description": "톰 피터스는 ‘20세기 3대 경영서’ 중 하나로 선정된 《초우량 기업의 조건》의 저자로서, &lt;이코노미스트&gt;는 그를 가리켜 ‘경영 구루 중의 구루’라 칭한 바 있다. 그는 전 세계에서 가장 뛰어난 기업 및 경영 리더들과 협력하며 40여 년 동안 일구어온 데이터 중심 연구의 결실로, 핵심 경영전략이 담긴 책 《톰 피터스 탁월한 기업의 조건》을 출간했다.",
+  "isbn": "8947548383",
+  "isbn13": "9788947548380",
+  "itemId": 298729025,
+  "priceSales": 17100,
+  "priceStandard": 19000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 950,
+  "cover": "https://image.aladin.co.kr/product/29872/90/coversum/8947548383_1.jpg",
+  "categoryId": 2173,
+  "categoryName": "국내도서>경제경영>기업 경영>경영전략/혁신",
+  "publisher": "한국경제신문",
+  "salesPoint": 3351,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 10,
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/29872/90/cover500/8947548383_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65ba1dc4cc8e267322f66578"
+  },
+  "title": "네트워크 마케팅 리더의 조건",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=136719469&amp;partner=openAPI&amp;start=api",
+  "author": "라인기획 (지은이)",
+  "pubDate": "2018-02-21",
+  "description": "네트워크를 넓혀 나가는 일, 즉 후원은 믿음을 먹고 자란다. 이것을 잘 아는 네트워크 마케팅 비즈니스의 리더는 아낌없이 지속적으로 후원한다. 그것이 네트워크 마케팅 비즈니스에서 무엇보다 중요한 일이기 때문이다.",
+  "isbn": "K312532415",
+  "isbn13": "9791187311249",
+  "itemId": 136719469,
+  "priceSales": 4950,
+  "priceStandard": 5500,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 270,
+  "cover": "https://image.aladin.co.kr/product/13671/94/coversum/k312532415_1.jpg",
+  "categoryId": 3104,
+  "categoryName": "국내도서>경제경영>CEO/비즈니스맨을 위한 능력계발>간부학/리더십",
+  "publisher": "LINE(라인)",
+  "salesPoint": 2685,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 10,
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/13671/94/cover500/k312532415_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab49934f0"
+  },
+  "title": "세계 최고의 인재들은 왜 기본에 집중할까 - 평생 성장을 멈추지 않는 사람들의 48가지 공통점",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=36207022&amp;partner=openAPI&amp;start=api",
+  "author": "도쓰카 다카마사 (지은이), 김대환 (옮긴이)",
+  "pubDate": "2014-02-14",
+  "description": "골드만 삭스, 컨설팅펌 맥킨지, 하버드 비즈니스 스쿨. 이 세 곳은 모든 사람들이 꿈꾸는 직장이자 교육기관으로, 전 세계 상위 1퍼센트 인재들에게만 허락되는 곳으로 유명하다. 이 책은 이곳에서 저자가 직접 경험한 세계 톱클래스 인재들의 공통점을 담고 있다.",
+  "isbn": "899757521X",
+  "isbn13": "9788997575213",
+  "itemId": 36207022,
+  "priceSales": 11700,
+  "priceStandard": 13000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 650,
+  "cover": "https://image.aladin.co.kr/product/3620/70/coversum/899757521x_2.jpg",
+  "categoryId": 70216,
+  "categoryName": "국내도서>자기계발>성공>성공학",
+  "publisher": "비즈니스북스",
+  "salesPoint": 5606,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 8,
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/3620/70/cover500/899757521x_2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab49934f4"
+  },
+  "title": "2024 SD에듀 기출이 답이다 지역인재 9급 수습직원 전과목 7개년 기출문제집 한권으로 끝내기 - 마이스터고·특성화고·종합고·전문대학 우수인재 9급 수습직원 선발시험 대비",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=327009124&amp;partner=openAPI&amp;start=api",
+  "author": "SD 공무원시험연구소 (지은이)",
+  "pubDate": "2024-01-05",
+  "description": "2023년부터 2017년까지 출제된 지역인재 9급 기출문제와 2023년 국가직·지방직 9급 기출문제까지 수록하였다. 효율적으로 학습할 수 있도록 문제편과 해설편을 분리하여 구성하였고 혼자 학습해도 이해하기 쉽도록 각 문항별로 정답의 이유와 오답의 이유를 나누어 수록하였다.",
+  "isbn": "K022936778",
+  "isbn13": "9791138360852",
+  "itemId": 327009124,
+  "priceSales": 18000,
+  "priceStandard": 20000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 1000,
+  "cover": "https://image.aladin.co.kr/product/32700/91/coversum/k022936778_1.jpg",
+  "categoryId": 34601,
+  "categoryName": "국내도서>수험서/자격증>공무원 수험서>7/9급 공무원>직군별 문제집>기타",
+  "publisher": "시대고시기획",
+  "salesPoint": 220,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 0,
+  "seriesInfo": {
+    "seriesId": 1120034,
+    "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1120034&amp;partner=openAPI",
+    "seriesName": "2024 기출이 답이다 시리즈 "
+  },
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/32700/91/cover500/k022936778_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab49934f7"
+  },
+  "title": "조벽 교수의 인재 혁명 - 대한민국 인재 교육을 위한 희망선언",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=8371107&amp;partner=openAPI&amp;start=api",
+  "author": "조벽 (지은이)",
+  "pubDate": "2010-12-15",
+  "description": "화제의 EBS 기획 ‘학교란 무엇인가’에서 21세기 교육 리더십의 정수를 보여준 조벽 교수의 신작. &lt;조벽 교수의 명강의 노하우& 노와이&gt;, &lt;나는 대한민국의 교사다&gt; 두 전작이 각각 효과적인 교수법과, 교육자의 자기경영법 등 실용적인 내용에 초점을 맞추었다면 이번 책에서는 새 시대 인재에 대한 좀더 심도 깊은 통찰을 담고 있다.",
+  "isbn": "8973373110",
+  "isbn13": "9788973373116",
+  "itemId": 8371107,
+  "priceSales": 15750,
+  "priceStandard": 17500,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 870,
+  "cover": "https://image.aladin.co.kr/product/837/11/coversum/8973373110_1.jpg",
+  "categoryId": 51121,
+  "categoryName": "국내도서>사회과학>교육학>교육 일반",
+  "publisher": "해냄",
+  "salesPoint": 2779,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 9,
+  "seriesInfo": {
+    "seriesId": 21663,
+    "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=21663&amp;partner=openAPI",
+    "seriesName": "희망의 교육 5부작 3"
+  },
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/837/11/cover500/8973373110_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab49934fa"
+  },
+  "title": "2024 SD에듀 지역인재 9급 수습직원 영어 - 마이스터고·특성화고·종합고·전문대학 우수인재 9급 수습직원 선발시험 대비",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=330023195&amp;partner=openAPI&amp;start=api",
+  "author": "SD 공무원시험연구소 (지은이)",
+  "pubDate": "2024-01-05",
+  "description": "최신 기출문제를 철저히 분석하여 시험에 출제될 가능성이 높은 핵심이론을 선별·수록하였으며, 단원별 핵심이론을 학습하고 실제예상문제를 풀어보며 수험생들이 부족한 부분을 체계적으로 훈련할 수 있도록 하였다.",
+  "isbn": "K042937774",
+  "isbn13": "9791138363280",
+  "itemId": 330023195,
+  "priceSales": 21600,
+  "priceStandard": 24000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 1200,
+  "cover": "https://image.aladin.co.kr/product/33002/31/coversum/k042937774_1.jpg",
+  "categoryId": 34625,
+  "categoryName": "국내도서>수험서/자격증>공무원 수험서>7/9급 공무원>영어>7/9급 기본서",
+  "publisher": "시대고시기획",
+  "salesPoint": 210,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 0,
+  "seriesInfo": {
+    "seriesId": 1148284,
+    "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1148284&amp;partner=openAPI",
+    "seriesName": "2024 지역인재 9급 수습직원 "
+  },
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/33002/31/cover500/k042937774_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab49934fd"
+  },
+  "title": "인재의 반격 - 맥락을 읽고 민첩하게 행동하는 사람들의 부상",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=254016327&amp;partner=openAPI&amp;start=api",
+  "author": "신태균 (지은이)",
+  "pubDate": "2020-10-26",
+  "description": "삼성의 ‘인재 사관 학교’라 불리는 삼성인력개발원에서 최고학습책임자를 지낸 신태균 전 부원장의 첫 저서. ‘문명과 산업’, ‘기업과 개인’이라는 크고 작은 줄기들을 촘촘하게 엮어 다가올 거대한 변화의 시대에는 어떤 인재가 필요할지, 기업은 어떤 인재를 통해서 지속 가능한 혁신과 생존을 모색할 수 있을지 이야기한다.",
+  "isbn": "K062633013",
+  "isbn13": "9791165342425",
+  "itemId": 254016327,
+  "priceSales": 14400,
+  "priceStandard": 16000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 800,
+  "cover": "https://image.aladin.co.kr/product/25401/63/coversum/k062633013_1.jpg",
+  "categoryId": 282,
+  "categoryName": "국내도서>경제경영>기업 경영>조직/인력/성과관리",
+  "publisher": "쌤앤파커스",
+  "salesPoint": 1595,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 9,
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/25401/63/cover500/k062633013_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab4993500"
+  },
+  "title": "2024 SD에듀 지역인재 9급 수습직원 한국사 - 마이스터고·특성화고·종합고·전문대학 우수인재 9급 수습직원 선발시험 대비",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=328980273&amp;partner=openAPI&amp;start=api",
+  "author": "SD 공무원시험연구소 (지은이)",
+  "pubDate": "2024-01-05",
+  "description": "최신 기출문제를 철저히 분석하여 시험에 출제될 가능성이 높은 핵심이론을 선별·수록하였으며, 단원별 핵심이론을 학습하고 실제예상문제를 풀어보며 수험생들이 부족한 부분을 체계적으로 훈련할 수 있도록 하였다.",
+  "isbn": "K122936622",
+  "isbn13": "9791138363136",
+  "itemId": 328980273,
+  "priceSales": 21600,
+  "priceStandard": 24000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 1200,
+  "cover": "https://image.aladin.co.kr/product/32898/2/coversum/k122936622_1.jpg",
+  "categoryId": 34629,
+  "categoryName": "국내도서>수험서/자격증>공무원 수험서>7/9급 공무원>한국사>7/9급 교재",
+  "publisher": "시대고시기획",
+  "salesPoint": 160,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 0,
+  "seriesInfo": {
+    "seriesId": 1148284,
+    "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=1148284&amp;partner=openAPI",
+    "seriesName": "2024 지역인재 9급 수습직원 "
+  },
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/32898/2/cover500/k122936622_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab4993503"
+  },
+  "title": "이민가지 않고도 우리 자녀 인재로 키울 수 있다 - 세계적인 교육전문가 최성애·조벽 교수의 부모혁명",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=536156&amp;partner=openAPI&amp;start=api",
+  "author": "조벽, 최성애 (지은이)",
+  "pubDate": "2008-11-25",
+  "description": "",
+  "isbn": "897337639X",
+  "isbn13": "9788973376391",
+  "itemId": 536156,
+  "priceSales": 11520,
+  "priceStandard": 12800,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 640,
+  "cover": "https://image.aladin.co.kr/product/53/61/coversum/897337639x_2.jpg",
+  "categoryId": 51790,
+  "categoryName": "국내도서>좋은부모>육아/교육 에세이",
+  "publisher": "해냄",
+  "salesPoint": 1018,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 10,
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/53/61/cover500/897337639x_2.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab4993506"
+  },
+  "title": "최고의 인재들 - 왜 미국 최고의 브레인들이 베트남전이라는 최악의 오류를 범했는가",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=35646315&amp;partner=openAPI&amp;start=api",
+  "author": "데이비드 핼버스탬 (지은이), 송정은, 황지현 (옮긴이)",
+  "pubDate": "2014-01-27",
+  "description": "'걸작 논픽션' 7권. 미국 의회에서 베트남 전쟁의 기원에 대한 논의도 개시하지 못하고 있던 1969년 집필을 시작해 1972년 대장정을 마치고 출간된 책으로, 1104쪽에 이르는 대작 논픽션이며 미국이 베트남전과 어떻게 관련을 맺고 있는지를 총체적으로 밝힌 책이다.",
+  "isbn": "8967350929",
+  "isbn13": "9788967350925",
+  "itemId": 35646315,
+  "priceSales": 25920,
+  "priceStandard": 28800,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 1440,
+  "cover": "https://image.aladin.co.kr/product/3564/63/coversum/8967350929_1.jpg",
+  "categoryId": 160,
+  "categoryName": "국내도서>역사>아메리카사>미국/캐나다사",
+  "publisher": "글항아리",
+  "salesPoint": 982,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 10,
+  "seriesInfo": {
+    "seriesId": 38445,
+    "seriesLink": "http://www.aladin.co.kr/shop/common/wseriesitem.aspx?SRID=38445&amp;partner=openAPI",
+    "seriesName": "걸작 논픽션 7"
+  },
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/3564/63/cover500/8967350929_1.jpg"
+},
+{
+  "_id": {
+    "$oid": "65bb7140605a2a4ab4993509"
+  },
+  "title": "세계 최고의 인재들은 어떻게 기본을 실천할까 - 평생 기본을 놓치지 않는 사람들의 35가지 공통점",
+  "link": "http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=53696529&amp;partner=openAPI&amp;start=api",
+  "author": "도쓰카 다카마사 (지은이), 장은주 (옮긴이)",
+  "pubDate": "2015-02-28",
+  "description": "2014년 한국과 일본 동시 베스트셀러를 기록하며 ‘기본’ 열풍을 몰고 온 '세계 최고 인재들은 왜 기본에 집중할까'의 두 번째 책. 저자는 세계 최고의 인재들이 지키는 ‘기본’을 회사 생활과 일상에서 어떻게 실천할 것인지에 대해 상세하게 알려준다.",
+  "isbn": "8997575422",
+  "isbn13": "9788997575428",
+  "itemId": 53696529,
+  "priceSales": 11700,
+  "priceStandard": 13000,
+  "mallType": "BOOK",
+  "stockStatus": "",
+  "mileage": 650,
+  "cover": "https://image.aladin.co.kr/product/5369/65/coversum/8997575422_1.jpg",
+  "categoryId": 70216,
+  "categoryName": "국내도서>자기계발>성공>성공학",
+  "publisher": "비즈니스북스",
+  "salesPoint": 956,
+  "adult": false,
+  "fixedPrice": true,
+  "customerReviewRank": 9,
+  "subInfo": {},
+  "image_url": "https://image.aladin.co.kr/product/5369/65/cover500/8997575422_1.jpg"
+}]

@@ -1,0 +1,2 @@
+mySQL ID: admin PWD: admin1@34
+MongoDB ID: admin1 PWD:admin1@34
