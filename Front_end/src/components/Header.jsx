@@ -43,7 +43,7 @@ export default function Header() {
               {isLoggedIn && console.log('마이페이지가 떠야함')}
             </ul>
           </div>
-          <div className="header-right-wrap" style={{ marginLeft: '1100px' }}>
+          <div className="header-right-wrap" style={{ marginLeft: 'auto' }}>
             <div className="login-button">
               {/* Login 컴포넌트에 isLoggedIn 상태와 setIsLoggedIn 함수를 props로 전달 */}
               <Login
